@@ -47,6 +47,7 @@ export default {
 <style scoped>
   .index__img{
     width: 100%;
+    height: 320px;
   }
   .index__header{
     padding: 80px 0;
@@ -73,7 +74,7 @@ export default {
   .content__body--shade{
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
     top: 0;
     left: 0;
